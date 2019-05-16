@@ -1,0 +1,3 @@
+luego de hacerlos archivos, index, estilos y carpetas graficas
+ comprimirlos en https://www.files2zip.es/
+ para luego subirlos en miarroba.es
